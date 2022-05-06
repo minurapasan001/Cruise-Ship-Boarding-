@@ -1,0 +1,12 @@
+Cabin 0 : Passengers Name : empty cabin
+Cabin 1 : Passengers Name : jdnjn
+Cabin 2 : Passengers Name : nknjkn
+Cabin 3 : Passengers Name : empty cabin
+Cabin 4 : Passengers Name : empty cabin
+Cabin 5 : Passengers Name : empty cabin
+Cabin 6 : Passengers Name : empty cabin
+Cabin 7 : Passengers Name : empty cabin
+Cabin 8 : Passengers Name : empty cabin
+Cabin 9 : Passengers Name : empty cabin
+Cabin 10 : Passengers Name : empty cabin
+Cabin 11 : Passengers Name : empty cabin
